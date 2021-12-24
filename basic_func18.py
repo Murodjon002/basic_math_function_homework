@@ -6,3 +6,7 @@
 # Example:
 # Input: a = pi
 # Output: 3.14
+from math import pi
+def main(a):
+    a=pi
+    return round(a,2)
