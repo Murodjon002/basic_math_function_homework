@@ -5,3 +5,5 @@
 # Example:
 # Input: a = 23 b = 5
 # Output: 3
+def main(a,b):
+    return a%b
