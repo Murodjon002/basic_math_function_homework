@@ -5,3 +5,5 @@
 # Example:
 # Input: a = 4 b = 11
 # Output: 7
+def main(a,b):
+    return abs(a-b)
