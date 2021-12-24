@@ -5,3 +5,5 @@
 # Example:
 # Input: a = 11 b = 2
 # Output: 5
+def main(a):
+    return a//b
